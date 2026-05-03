@@ -2,21 +2,21 @@
   "name": "Business Tracker",
   "short_name": "Tracker",
   "description": "Bengali business tracking app",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/business_tracker/index.html",
+  "scope": "/business_tracker/",
   "display": "standalone",
   "background_color": "#09090f",
   "theme_color": "#09090f",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icons/android-chrome-192x192.png",
+      "src": "/business_tracker/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/android-chrome-512x512.png",
+      "src": "/business_tracker/icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
