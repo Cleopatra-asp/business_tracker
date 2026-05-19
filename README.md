@@ -34,6 +34,8 @@ Most accounting software is overkill for small businesses. BizTrack Pro gives yo
 [ ] Google Sheets sync<br>
 [ ] Multi-user support<br>
 [ ] Cloud backup<br>
+Tracker link: https://cleopatra-asp.github.io/business_tracker/
+<br>
 
 
 👩‍💻 About the Developer<br>
